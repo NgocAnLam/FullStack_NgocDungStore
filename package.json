@@ -1,0 +1,26 @@
+{
+  "name": "fullstack_ngocdungstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgocAnLam/FullStack_NgocDungStore.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ngocdung"
+  ],
+  "author": "anlam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgocAnLam/FullStack_NgocDungStore/issues"
+  },
+  "homepage": "https://github.com/NgocAnLam/FullStack_NgocDungStore#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
